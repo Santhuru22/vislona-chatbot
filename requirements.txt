@@ -1,0 +1,19 @@
+# Core LangChain libraries
+langchain
+langchain-community
+
+# Vector database
+faiss-cpu
+# If you have GPU support, you can replace with:
+# faiss-gpu
+
+# Networking
+requests
+
+# Regex utilities
+regex
+
+# Optional but useful
+streamlit   # Simple UI for querying chatbot
+notebook    # Jupyter Notebook support
+ipython     # Interactive testing
