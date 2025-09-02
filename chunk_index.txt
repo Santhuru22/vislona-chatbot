@@ -1,0 +1,238 @@
+# Vislona Chatbot Dataset - Chunk Index
+# Generated on: 2025-09-02
+# Total chunks: 39
+
+Chunk 000:
+  - File: chatbot data.pdf
+  - Position: 0-55
+  - Length: 55 chars
+  - Preview: # Vislona AI Pla(cid:414)orm - Chatbot Training Dataset
+
+Chunk 001:
+  - File: chatbot data.pdf
+  - Position: 55-739
+  - Length: 684 chars
+  - Preview:  ## Company Informa(cid:415)on Q: What is Vislona? A: Vislona is a next-gen AI company that build...
+
+Chunk 002:
+  - File: chatbot data.pdf
+  - Position: 639-1319
+  - Length: 680 chars
+  - Preview: le enhancement, content crea(cid:415)on, and intelligent agents - all accessible without any codi...
+
+Chunk 003:
+  - File: chatbot data.pdf
+  - Position: 1219-1949
+  - Length: 730 chars
+  - Preview: l APIs and proprietary in-house AI models, depending on the specific tool and use case requiremen...
+
+Chunk 004:
+  - File: chatbot data.pdf
+  - Position: 1849-2137
+  - Length: 288 chars
+  - Preview: lopment cycle, launching new AI tools and features regularly based on user needs and market deman...
+
+Chunk 005:
+  - File: chatbot data.pdf
+  - Position: 2137-2886
+  - Length: 749 chars
+  - Preview:  ## Pla(cid:414)orm Features Q: What is the AI-Builder feature? A: AI-Builder is our visual AI mo...
+
+Chunk 006:
+  - File: chatbot data.pdf
+  - Position: 2786-3552
+  - Length: 766 chars
+  - Preview:  lets you publish and share your AI crea(cid:415)ons instantly without complex deployment process...
+
+Chunk 007:
+  - File: chatbot data.pdf
+  - Position: 3452-3873
+  - Length: 421 chars
+  - Preview: organize tasks with editable tags for quick filtering and be(cid:425)er project organiza(cid:415)...
+
+Chunk 008:
+  - File: chatbot data.pdf
+  - Position: 3873-4609
+  - Length: 736 chars
+  - Preview:  ## Technical Support Q: How do I train my first AI model? A: Start with our AI-Builder tool, upl...
+
+Chunk 009:
+  - File: chatbot data.pdf
+  - Position: 4509-5267
+  - Length: 758 chars
+  - Preview: 415)me training metrics, progress bars, and performance visualiza(cid:415)ons during model traini...
+
+Chunk 010:
+  - File: chatbot data.pdf
+  - Position: 5167-5597
+  - Length: 430 chars
+  - Preview:  retrain models with new data and update deployments seamlessly without service interrup(cid:415)...
+
+Chunk 011:
+  - File: chatbot data.pdf
+  - Position: 5597-6290
+  - Length: 693 chars
+  - Preview:  ## Collabora(cid:415)on Q: How do I invite team members? A: Use the team management interface to...
+
+Chunk 012:
+  - File: chatbot data.pdf
+  - Position: 6190-6942
+  - Length: 752 chars
+  - Preview: mments on specific elements, request changes, and approve work through our integrated review syst...
+
+Chunk 013:
+  - File: chatbot data.pdf
+  - Position: 6842-7256
+  - Length: 414 chars
+  - Preview: dashboard to monitor team ac(cid:415)vity, project progress, and resource u(cid:415)liza(cid:415)...
+
+Chunk 014:
+  - File: chatbot data.pdf
+  - Position: 7256-7912
+  - Length: 656 chars
+  - Preview:  ## Training Program Q: What is the dura(cid:415)on of the internship? A: The internship typicall...
+
+Chunk 015:
+  - File: chatbot data.pdf
+  - Position: 7812-8583
+  - Length: 771 chars
+  - Preview: 50 is required for the training process to manage resources and provide quality learning experien...
+
+Chunk 016:
+  - File: chatbot data.pdf
+  - Position: 8483-8918
+  - Length: 435 chars
+  - Preview: full-(cid:415)me job with Vislona, referred to partner companies, or added to live AI product tea...
+
+Chunk 017:
+  - File: chatbot data.pdf
+  - Position: 8918-9607
+  - Length: 689 chars
+  - Preview:  ## Billing Q: What pricing plans are available? A: We offer various subscrip(cid:415)on (cid:415...
+
+Chunk 018:
+  - File: chatbot data.pdf
+  - Position: 9507-10283
+  - Length: 776 chars
+  - Preview: bscrip(cid:415)on plan at any (cid:415)me through your account se(cid:427)ngs with prorated billi...
+
+Chunk 019:
+  - File: chatbot data.pdf
+  - Position: 10183-10652
+  - Length: 469 chars
+  - Preview: gh account se(cid:427)ngs, with access con(cid:415)nuing un(cid:415)l the end of the billing peri...
+
+Chunk 020:
+  - File: chatbot data.pdf
+  - Position: 10652-11398
+  - Length: 746 chars
+  - Preview:  ## Troubleshoo(cid:415)ng Q: Why is my model training slow? A: Training speed depends on data si...
+
+Chunk 021:
+  - File: chatbot data.pdf
+  - Position: 11298-11945
+  - Length: 647 chars
+  - Preview: k if they've accepted invita(cid:415)ons, and ensure projects are shared with correct access leve...
+
+Chunk 022:
+  - File: chatbot data.pdf
+  - Position: 11845-12500
+  - Length: 655 chars
+  - Preview: ternet connec(cid:415)on, use supported browsers, and ensure your device meets minimum requiremen...
+
+Chunk 023:
+  - File: chatbot data.pdf
+  - Position: 12500-13281
+  - Length: 781 chars
+  - Preview:  ## Integra(cid:415)on Q: What APIs are available? A: We provide REST APIs for model management, ...
+
+Chunk 024:
+  - File: chatbot data.pdf
+  - Position: 13181-13945
+  - Length: 764 chars
+  - Preview:  SDKs for Python, JavaScript, and other popular programming languages for easier integra(cid:415)...
+
+Chunk 025:
+  - File: chatbot data.pdf
+  - Position: 13845-14109
+  - Length: 264 chars
+  - Preview: d:415)cs and monitoring are available through your account dashboard with detailed analy(cid:415)...
+
+Chunk 026:
+  - File: chatbot data.pdf
+  - Position: 14109-14779
+  - Length: 670 chars
+  - Preview:  ## Security Q: How is my data protected? A: We use enterprise-grade encryp(cid:415)on, secure cl...
+
+Chunk 027:
+  - File: chatbot data.pdf
+  - Position: 14679-15463
+  - Length: 784 chars
+  - Preview: control over data access with granular permissions, audit logs, and data export capabili(cid:415)...
+
+Chunk 028:
+  - File: chatbot data.pdf
+  - Position: 15363-15854
+  - Length: 491 chars
+  - Preview: cryp(cid:415)on, access controls, and secure deployment environments to prevent unauthorized acce...
+
+Chunk 029:
+  - File: chatbot data.pdf
+  - Position: 15854-16611
+  - Length: 757 chars
+  - Preview:  ## Performance Q: Why is my model training taking so long? A: Training (cid:415)me depends on da...
+
+Chunk 030:
+  - File: chatbot data.pdf
+  - Position: 16511-17098
+  - Length: 587 chars
+  - Preview: limited). Large datasets are processed in chunks and stored efficiently in our cloud infrastructu...
+
+Chunk 031:
+  - File: chatbot data.pdf
+  - Position: 17098-17832
+  - Length: 734 chars
+  - Preview:  ## Data Management Q: How do I clean and preprocess my data? A: Use our built-in data preprocess...
+
+Chunk 032:
+  - File: chatbot data.pdf
+  - Position: 17732-18263
+  - Length: 531 chars
+  - Preview: es including mean/median filling, forward/backward filling, and advanced ML-based imputa(cid:415)...
+
+Chunk 033:
+  - File: chatbot data.pdf
+  - Position: 18263-19022
+  - Length: 759 chars
+  - Preview:  ## Model Development Q: What types of machine learning models can I build? A: We support supervi...
+
+Chunk 034:
+  - File: chatbot data.pdf
+  - Position: 18922-19487
+  - Length: 565 chars
+  - Preview: rs, and fine-tune on your specific dataset with automated hyperparameter op(cid:415)miza(cid:415)...
+
+Chunk 035:
+  - File: chatbot data.pdf
+  - Position: 19487-20187
+  - Length: 700 chars
+  - Preview:  ## Deployment Q: How do I monitor model performance in produc(cid:415)on? A: Use our monitoring ...
+
+Chunk 036:
+  - File: chatbot data.pdf
+  - Position: 20087-20653
+  - Length: 566 chars
+  - Preview: d deployment pipelines, rollback capabili(cid:415)es, and canary deployments for safe model updat...
+
+Chunk 037:
+  - File: chatbot data.pdf
+  - Position: 20653-21335
+  - Length: 682 chars
+  - Preview:  ## Advanced Features Q: Do you support federated learning? A: Yes, our federated learning framew...
+
+Chunk 038:
+  - File: chatbot data.pdf
+  - Position: 21235-21857
+  - Length: 622 chars
+  - Preview: tuning, and neural architecture search to find op(cid:415)mal solu(cid:415)ons automa(cid:415)cal...
+
