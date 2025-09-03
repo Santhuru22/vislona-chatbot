@@ -1,0 +1,19 @@
+# Chunk 11
+# Source: chatbot data.pdf
+# Position: 5597-6290
+# Length: 693 characters
+
+
+## Collabora(cid:415)on
+Q: How do I invite team members?
+A: Use the team management interface to send email invita(cid:415)ons with specific role permissions and
+access levels.
+Q: What permission levels are available?
+A: We offer Admin, Editor, Viewer, and Guest permissions with customizable access to specific
+projects and features.
+Q: Can mul(cid:415)ple people edit simultaneously?
+A: Yes, our Live Collabora(cid:415)on feature supports simultaneous edi(cid:415)ng with conflict resolu(cid:415)on and real-
+(cid:415)me sync.
+Q: How do comments and reviews work?
+A: Team members can add comments on specific elements, request changes, and approve work
+through our integrated review system.

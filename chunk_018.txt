@@ -1,0 +1,19 @@
+# Chunk 18
+# Source: chatbot data.pdf
+# Position: 9507-10283
+# Length: 776 characters
+
+bscrip(cid:415)on plan at any (cid:415)me through your account se(cid:427)ngs with
+prorated billing.
+Q: What payment methods are accepted?
+A: We accept major credit cards, debit cards, and digital payment methods for subscrip(cid:415)on
+payments.
+Q: How do refunds work?
+A: Refunds are processed according to our terms of service, typically within 30 days of subscrip(cid:415)on
+with certain condi(cid:415)ons.
+Q: Are there enterprise discounts?
+A: Yes, we offer custom pricing and discounts for enterprise customers with large team sizes and
+specific requirements.
+Q: How do I cancel my subscrip(cid:415)on?
+A: You can cancel your subscrip(cid:415)on at any (cid:415)me through account se(cid:427)ngs, with access con(cid:415)nuing un(cid:415)l
+the end of the billing period.

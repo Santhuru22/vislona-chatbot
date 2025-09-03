@@ -1,0 +1,13 @@
+# Chunk 30
+# Source: chatbot data.pdf
+# Position: 16511-17098
+# Length: 587 characters
+
+limited). Large
+datasets are processed in chunks and stored efficiently in our cloud infrastructure.
+Q: How do I op(cid:415)mize model performance for mobile deployment?
+A: Use model compression techniques, quan(cid:415)za(cid:415)on, pruning, and our mobile-op(cid:415)mized deployment
+op(cid:415)ons. We provide tools to reduce model size while maintaining accuracy.
+Q: Can I use GPU accelera(cid:415)on for training?
+A: Yes, GPU accelera(cid:415)on is available on Professional and Enterprise plans. It significantly reduces
+training (cid:415)me for large models and complex datasets.

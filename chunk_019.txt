@@ -1,0 +1,13 @@
+# Chunk 19
+# Source: chatbot data.pdf
+# Position: 10183-10652
+# Length: 469 characters
+
+gh account se(cid:427)ngs, with access con(cid:415)nuing un(cid:415)l
+the end of the billing period.
+Q: What happens to my data a(cid:332)er cancella(cid:415)on?
+A: Your data is retained for a grace period, a(cid:332)er which it may be permanently deleted according to
+our data reten(cid:415)on policy.
+Q: Can I export my projects before cancelling?
+A: Yes, you can export your project data and models before cancella(cid:415)on to ensure you don't lose
+important work.

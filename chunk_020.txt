@@ -1,0 +1,19 @@
+# Chunk 20
+# Source: chatbot data.pdf
+# Position: 10652-11398
+# Length: 746 characters
+
+
+## Troubleshoo(cid:415)ng
+Q: Why is my model training slow?
+A: Training speed depends on data size, model complexity, and current server load. Try reducing data
+size or simplifying the model.
+Q: My deployment isn't working, what should I do?
+A: Check your model status, verify configura(cid:415)ons, and ensure all required parameters are set.
+Contact support if issues persist.
+Q: I can't access my project, how do I recover it?
+A: Check your internet connec(cid:415)on, clear browser cache, or try accessing from a different device. All
+projects are auto-saved.
+Q: Team members can't see shared projects
+A: Verify team member permissions, check if they've accepted invita(cid:415)ons, and ensure projects are
+shared with correct access levels.

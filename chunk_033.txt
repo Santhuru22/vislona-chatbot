@@ -1,0 +1,17 @@
+# Chunk 33
+# Source: chatbot data.pdf
+# Position: 18263-19022
+# Length: 759 characters
+
+
+## Model Development
+Q: What types of machine learning models can I build?
+A: We support supervised learning (classifica(cid:415)on, regression), unsupervised learning (clustering,
+dimensionality reduc(cid:415)on), deep learning (neural networks, CNNs, RNNs), and reinforcement
+learning.
+Q: Can I use pre-trained models?
+A: Yes, we offer a marketplace of pre-trained models for common tasks like image recogni(cid:415)on,
+natural language processing, and (cid:415)me series forecas(cid:415)ng that you can fine-tune for your needs.
+Q: How do I implement transfer learning?
+A: Our transfer learning wizard helps you select appropriate base models, freeze layers, and fine-tune
+on your specific dataset with automated hyperparameter op(cid:415)miza(cid:415)on.

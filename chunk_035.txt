@@ -1,0 +1,16 @@
+# Chunk 35
+# Source: chatbot data.pdf
+# Position: 19487-20187
+# Length: 700 characters
+
+
+## Deployment
+Q: How do I monitor model performance in produc(cid:415)on?
+A: Use our monitoring dashboard to track predic(cid:415)on accuracy, data dri(cid:332), model degrada(cid:415)on, latency
+metrics, and set up automated alerts for performance issues.
+Q: Can I implement A/B tes(cid:415)ng for models?
+A: Yes, our A/B tes(cid:415)ng framework allows you to compare model versions, split traffic, measure
+performance metrics, and gradually roll out new models based on results.
+Q: How do I handle model versioning in produc(cid:415)on?
+A: We provide model registry with version control, automated deployment pipelines, rollback
+capabili(cid:415)es, and canary deployments for safe model updates.

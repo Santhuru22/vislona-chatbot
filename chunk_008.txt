@@ -1,0 +1,19 @@
+# Chunk 8
+# Source: chatbot data.pdf
+# Position: 3873-4609
+# Length: 736 characters
+
+
+## Technical Support
+Q: How do I train my first AI model?
+A: Start with our AI-Builder tool, upload your data, select a model type, configure basic parameters,
+and begin training with our guided interface.
+Q: What file formats are supported for data upload?
+A: We support common formats like CSV, JSON, images (JPG, PNG), videos (MP4), and text files for
+different AI model types.
+Q: How long does model training take?
+A: Training (cid:415)me depends on data size and model complexity, ranging from minutes for simple models
+to hours for complex ones.
+Q: Can I monitor training progress?
+A: Yes, our pla(cid:414)orm provides real-(cid:415)me training metrics, progress bars, and performance
+visualiza(cid:415)ons during model training.

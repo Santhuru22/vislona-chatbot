@@ -1,0 +1,19 @@
+# Chunk 17
+# Source: chatbot data.pdf
+# Position: 8918-9607
+# Length: 689 characters
+
+
+## Billing
+Q: What pricing plans are available?
+A: We offer various subscrip(cid:415)on (cid:415)ers including free, professional, and enterprise plans with different
+feature sets and usage limits.
+Q: Is there a free trial?
+A: Yes, new users can access our pla(cid:414)orm with a free trial to explore features before commi(cid:427)ng to a
+paid plan.
+Q: How does billing work for teams?
+A: Team billing is based on the number of ac(cid:415)ve users and selected features, with monthly or annual
+payment op(cid:415)ons.
+Q: Can I upgrade or downgrade my plan?
+A: Yes, you can change your subscrip(cid:415)on plan at any (cid:415)me through your account se(cid:427)ngs with
+prorated billing.

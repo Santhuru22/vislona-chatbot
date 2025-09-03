@@ -1,0 +1,16 @@
+# Chunk 31
+# Source: chatbot data.pdf
+# Position: 17098-17832
+# Length: 734 characters
+
+
+## Data Management
+Q: How do I clean and preprocess my data?
+A: Use our built-in data preprocessing tools for cleaning, normaliza(cid:415)on, feature engineering, and
+data valida(cid:415)on. We support automated data quality checks and transforma(cid:415)on pipelines.
+Q: Can I connect to external databases?
+A: Yes, we support connec(cid:415)ons to popular databases like PostgreSQL, MySQL, MongoDB, and cloud
+services like AWS RDS, Google Cloud SQL, and Azure SQL Database.
+Q: How do I handle missing data in my dataset?
+A: Our pla(cid:414)orm provides automated missing data detec(cid:415)on and various imputa(cid:415)on strategies
+including mean/median filling, forward/backward filling, and advanced ML-based imputa(cid:415)on.

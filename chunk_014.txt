@@ -1,0 +1,18 @@
+# Chunk 14
+# Source: chatbot data.pdf
+# Position: 7256-7912
+# Length: 656 characters
+
+
+## Training Program
+Q: What is the dura(cid:415)on of the internship?
+A: The internship typically lasts 1 to 2 months, depending on the domain and your performance.
+Q: Is this internship paid?
+A: Yes. If you perform well during training, you can receive a s(cid:415)pend (₹10K-20K monthly) and may
+also receive a full-(cid:415)me job offer.
+Q: Is prior experience required?
+A: No prior experience is needed. We welcome freshers, college students, and passionate learners
+from any background.
+Q: How much is the training fee?
+A: A one-(cid:415)me fee of ₹250 is required for the training process to manage resources and provide
+quality learning experience.

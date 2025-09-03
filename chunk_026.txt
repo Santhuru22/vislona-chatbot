@@ -1,0 +1,19 @@
+# Chunk 26
+# Source: chatbot data.pdf
+# Position: 14109-14779
+# Length: 670 characters
+
+
+## Security
+Q: How is my data protected?
+A: We use enterprise-grade encryp(cid:415)on, secure cloud storage, access controls, and regular security
+audits to protect your data.
+Q: Where is data stored?
+A: Data is stored in secure cloud infrastructure with redundancy and backup systems across mul(cid:415)ple
+geographic loca(cid:415)ons.
+Q: Do you comply with privacy regula(cid:415)ons?
+A: Yes, we comply with GDPR, CCPA, and other major privacy regula(cid:415)ons with comprehensive data
+protec(cid:415)on measures.
+Q: Can I control data access?
+A: Yes, you have full control over data access with granular permissions, audit logs, and data export
+capabili(cid:415)es.

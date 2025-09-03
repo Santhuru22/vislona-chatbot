@@ -1,0 +1,19 @@
+# Chunk 9
+# Source: chatbot data.pdf
+# Position: 4509-5267
+# Length: 758 characters
+
+415)me training metrics, progress bars, and performance
+visualiza(cid:415)ons during model training.
+Q: What happens if training fails?
+A: The system will provide error logs and sugges(cid:415)ons for fixing issues. Our support team can also
+help troubleshoot specific problems.
+Q: How do I deploy my trained model?
+A: Use our Custom Deployments feature to convert your model into a web app or API endpoint with
+automa(cid:415)c scaling.
+Q: Can I integrate models with external systems?
+A: Yes, deployed models come with API endpoints that can be integrated into exis(cid:415)ng applica(cid:415)ons
+and workflows.
+Q: How do I handle model updates?
+A: You can retrain models with new data and update deployments seamlessly without service
+interrup(cid:415)on.

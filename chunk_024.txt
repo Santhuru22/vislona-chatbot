@@ -1,0 +1,19 @@
+# Chunk 24
+# Source: chatbot data.pdf
+# Position: 13181-13945
+# Length: 764 characters
+
+ SDKs for Python, JavaScript, and other popular programming languages for easier
+integra(cid:415)on.
+Q: How do I authen(cid:415)cate API requests?
+A: Use API keys or OAuth tokens for authen(cid:415)ca(cid:415)on. All requests must include valid creden(cid:415)als in
+headers.
+Q: Are there rate limits on API usage?
+A: Yes, API rate limits vary by subscrip(cid:415)on plan. Enterprise customers can request higher limits based
+on needs.
+Q: Can I white-label the pla(cid:414)orm?
+A: White-labeling op(cid:415)ons are available for enterprise customers with custom branding and domain
+configura(cid:415)on.
+Q: How do I monitor API usage?
+A: API usage sta(cid:415)s(cid:415)cs and monitoring are available through your account dashboard with detailed
+analy(cid:415)cs.

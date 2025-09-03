@@ -1,0 +1,18 @@
+# Chunk 12
+# Source: chatbot data.pdf
+# Position: 6190-6942
+# Length: 752 characters
+
+mments on specific elements, request changes, and approve work
+through our integrated review system.
+Q: Can external clients access projects?
+A: Yes, you can invite external clients as guests with limited access to view and comment on specific
+projects.
+Q: How do no(cid:415)fica(cid:415)ons work?
+A: Get intelligent alerts when models are trained, designs are approved, tasks shi(cid:332), or team
+members make updates.
+Q: Can I control what team members see?
+A: Yes, use project-level and team-level permissions to control access to sensi(cid:415)ve data and specific
+features.
+Q: How do I track team produc(cid:415)vity?
+A: Use our analy(cid:415)cs dashboard to monitor team ac(cid:415)vity, project progress, and resource u(cid:415)liza(cid:415)on.

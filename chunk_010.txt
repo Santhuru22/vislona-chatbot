@@ -1,0 +1,13 @@
+# Chunk 10
+# Source: chatbot data.pdf
+# Position: 5167-5597
+# Length: 430 characters
+
+ retrain models with new data and update deployments seamlessly without service
+interrup(cid:415)on.
+Q: What if my model performance is poor?
+A: Our pla(cid:414)orm provides guidance on data quality improvement, hyperparameter tuning, and model
+architecture selec(cid:415)on.
+Q: How do I backup my projects?
+A: All projects are automa(cid:415)cally backed up to cloud storage, and you can export project data
+manually when needed.

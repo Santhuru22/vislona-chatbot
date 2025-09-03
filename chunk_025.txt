@@ -1,0 +1,10 @@
+# Chunk 25
+# Source: chatbot data.pdf
+# Position: 13845-14109
+# Length: 264 characters
+
+d:415)cs and monitoring are available through your account dashboard with detailed
+analy(cid:415)cs.
+Q: What data formats does the API support?
+A: Our APIs support JSON for most opera(cid:415)ons, with addi(cid:415)onal support for file uploads in various
+formats.

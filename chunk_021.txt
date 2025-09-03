@@ -1,0 +1,16 @@
+# Chunk 21
+# Source: chatbot data.pdf
+# Position: 11298-11945
+# Length: 647 characters
+
+k if they've accepted invita(cid:415)ons, and ensure projects are
+shared with correct access levels.
+Q: Upload is failing, what formats are supported?
+A: Ensure files are in supported formats and under size limits. Common issues include corrupted files
+or network (cid:415)meouts.
+Q: My account is locked, how do I unlock it?
+A: Account locks usually occur due to security reasons or payment issues. Contact our support team
+for account recovery assistance.
+Q: Performance is slow, how can I improve it?
+A: Close unnecessary browser tabs, check internet connec(cid:415)on, use supported browsers, and ensure
+your device meets minimum requirements.

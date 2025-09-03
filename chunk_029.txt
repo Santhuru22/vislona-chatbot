@@ -1,0 +1,16 @@
+# Chunk 29
+# Source: chatbot data.pdf
+# Position: 15854-16611
+# Length: 757 characters
+
+
+## Performance
+Q: Why is my model training taking so long?
+A: Training (cid:415)me depends on data size, model complexity, and server load. Try reducing batch size,
+simplifying the model architecture, or using our premium compute resources for faster processing.
+Q: How can I improve my model's accuracy?
+A: Improve accuracy by ensuring high-quality training data, trying different model architectures,
+adjus(cid:415)ng hyperparameters, using data augmenta(cid:415)on, or collec(cid:415)ng more diverse training samples.
+Q: What's the maximum dataset size I can upload?
+A: Dataset size limits vary by plan: Free (100MB), Professional (10GB), Enterprise (unlimited). Large
+datasets are processed in chunks and stored efficiently in our cloud infrastructure.

@@ -1,0 +1,13 @@
+# Chunk 28
+# Source: chatbot data.pdf
+# Position: 15363-15854
+# Length: 491 characters
+
+cryp(cid:415)on, access controls, and secure deployment environments to
+prevent unauthorized access.
+Q: Are there audit logs available?
+A: Yes, comprehensive audit logs track all user ac(cid:415)vi(cid:415)es, data access, and system changes for security
+monitoring.
+Q: How do you verify user iden(cid:415)ty?
+A: We use mul(cid:415)ple verifica(cid:415)on methods including email verifica(cid:415)on, phone verifica(cid:415)on, and op(cid:415)onal
+iden(cid:415)ty document valida(cid:415)on.

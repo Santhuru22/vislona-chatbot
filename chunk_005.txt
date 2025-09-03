@@ -1,0 +1,19 @@
+# Chunk 5
+# Source: chatbot data.pdf
+# Position: 2137-2886
+# Length: 749 characters
+
+
+## Pla(cid:414)orm Features
+Q: What is the AI-Builder feature?
+A: AI-Builder is our visual AI model training tool that makes AI model crea(cid:415)on easy and accessible
+without requiring deep technical knowledge.
+Q: How do Custom Deployments work?
+A: Custom Deployments allow you to instantly turn your trained AI models into web applica(cid:415)ons or
+mobile apps with just a few clicks.
+Q: What is Live Collabora(cid:415)on?
+A: Live Collabora(cid:415)on enables teams to work together in real-(cid:415)me on any screen, with live updates
+and synchronized edi(cid:415)ng capabili(cid:415)es.
+Q: How does One-click Launch work?
+A: One-click Launch lets you publish and share your AI crea(cid:415)ons instantly without complex
+deployment processes.

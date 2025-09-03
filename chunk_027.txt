@@ -1,0 +1,18 @@
+# Chunk 27
+# Source: chatbot data.pdf
+# Position: 14679-15463
+# Length: 784 characters
+
+control over data access with granular permissions, audit logs, and data export
+capabili(cid:415)es.
+Q: How do you handle data breaches?
+A: We have incident response procedures, immediate no(cid:415)fica(cid:415)on systems, and work with security
+experts to address any issues.
+Q: Is two-factor authen(cid:415)ca(cid:415)on available?
+A: Yes, we support 2FA through authen(cid:415)cator apps, SMS, and email for enhanced account security.
+Q: Can I delete my data permanently?
+A: Yes, you can request permanent data dele(cid:415)on, and we will remove all associated data according to
+our reten(cid:415)on policy.
+Q: How do you ensure model security?
+A: AI models are protected with encryp(cid:415)on, access controls, and secure deployment environments to
+prevent unauthorized access.

@@ -1,0 +1,19 @@
+# Chunk 6
+# Source: chatbot data.pdf
+# Position: 2786-3552
+# Length: 766 characters
+
+ lets you publish and share your AI crea(cid:415)ons instantly without complex
+deployment processes.
+Q: What file sharing op(cid:415)ons are available?
+A: You can easily upload and share project files securely within the pla(cid:414)orm with team members and
+collaborators.
+Q: How does Team Sync work?
+A: Team Sync keeps your en(cid:415)re team aligned with real-(cid:415)me updates on project progress, changes,
+and no(cid:415)fica(cid:415)ons.
+Q: What is the Time Tracker feature?
+A: The Time Tracker allows you to log work hours directly within the pla(cid:414)orm for be(cid:425)er project
+management and billing.
+Q: How do Task Tags work?
+A: Task Tags help you organize tasks with editable tags for quick filtering and be(cid:425)er project
+organiza(cid:415)on.

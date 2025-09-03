@@ -1,0 +1,12 @@
+# Chunk 13
+# Source: chatbot data.pdf
+# Position: 6842-7256
+# Length: 414 characters
+
+dashboard to monitor team ac(cid:415)vity, project progress, and resource u(cid:415)liza(cid:415)on.
+Q: Can I assign specific tasks?
+A: Yes, use our task assignment feature to delegate work with deadlines, priori(cid:415)es, and progress
+tracking.
+Q: How do I manage mul(cid:415)ple projects?
+A: Our unified product hub allows you to manage designs, APIs, and development pipelines across
+mul(cid:415)ple projects.

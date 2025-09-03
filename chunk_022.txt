@@ -1,0 +1,16 @@
+# Chunk 22
+# Source: chatbot data.pdf
+# Position: 11845-12500
+# Length: 655 characters
+
+ternet connec(cid:415)on, use supported browsers, and ensure
+your device meets minimum requirements.
+Q: I'm ge(cid:427)ng error messages, what do they mean?
+A: Error messages provide specific informa(cid:415)on about issues. Check our documenta(cid:415)on or contact
+support with the exact error text.
+Q: Data isn't syncing across devices
+A: Ensure you're logged into the same account on all devices and check internet connec(cid:415)vity. Manual
+refresh may be needed.
+Q: How do I report bugs or issues?
+A: Use our built-in feedback system, email support@vislona.com, or contact us through the help
+sec(cid:415)on with detailed issue descrip(cid:415)ons.

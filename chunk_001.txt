@@ -1,0 +1,16 @@
+# Chunk 1
+# Source: chatbot data.pdf
+# Position: 55-739
+# Length: 684 characters
+
+
+## Company Informa(cid:415)on
+Q: What is Vislona?
+A: Vislona is a next-gen AI company that builds smart, subscrip(cid:415)on-based tools and agents for
+modern users without tradi(cid:415)onal code. We make AI crea(cid:415)on simple, accessible, and beau(cid:415)ful.
+Q: Is Vislona a single product or a pla(cid:414)orm?
+A: Vislona is not a single app - it's a parent company that launches mul(cid:415)ple AI-powered tools, each
+focused on a specific need or niche.
+Q: What kind of tools does Vislona create?
+A: We create AI-driven apps for produc(cid:415)vity, personal care, lifestyle enhancement, content crea(cid:415)on,
+and intelligent agents - all accessible without any coding.

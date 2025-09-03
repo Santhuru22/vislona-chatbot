@@ -1,0 +1,22 @@
+# Chunk 23
+# Source: chatbot data.pdf
+# Position: 12500-13281
+# Length: 781 characters
+
+
+## Integra(cid:415)on
+Q: What APIs are available?
+A: We provide REST APIs for model management, deployment, data upload, and team collabora(cid:415)on
+features.
+Q: How do I get API access?
+A: API access is available with professional and enterprise plans. Generate API keys from your
+account dashboard.
+Q: Can I integrate with external tools?
+A: Yes, our APIs support integra(cid:415)on with popular development tools, CI/CD pipelines, and business
+applica(cid:415)ons.
+Q: What webhook events are supported?
+A: We support webhooks for training comple(cid:415)on, deployment status changes, team updates, and
+other key pla(cid:414)orm events.
+Q: Is there SDK support?
+A: We provide SDKs for Python, JavaScript, and other popular programming languages for easier
+integra(cid:415)on.

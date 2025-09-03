@@ -1,0 +1,13 @@
+# Chunk 36
+# Source: chatbot data.pdf
+# Position: 20087-20653
+# Length: 566 characters
+
+d deployment pipelines, rollback
+capabili(cid:415)es, and canary deployments for safe model updates.
+Q: What's your approach to model explainability?
+A: We offer LIME, SHAP, feature importance analysis, decision trees visualiza(cid:415)on, and custom
+explainability tools to help you understand and explain model predic(cid:415)ons.
+Q: Can I deploy models to edge devices?
+A: Yes, we support edge deployment with model op(cid:415)miza(cid:415)on for IoT devices, mobile apps, and
+embedded systems using TensorFlow Lite, ONNX, and other edge-op(cid:415)mized formats.

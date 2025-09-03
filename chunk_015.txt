@@ -1,0 +1,19 @@
+# Chunk 15
+# Source: chatbot data.pdf
+# Position: 7812-8583
+# Length: 771 characters
+
+50 is required for the training process to manage resources and provide
+quality learning experience.
+Q: Will I get a cer(cid:415)ficate?
+A: Yes, all selected interns receive a verified government-recognized internship cer(cid:415)ficate upon
+successful comple(cid:415)on.
+Q: What are the available domains?
+A: We offer internships in UI/UX Design, Web Development, AI/ML, Prompt Engineering, Digital
+Marke(cid:415)ng, and No-Code Development.
+Q: Is it a remote internship?
+A: Yes, this is a 100% remote internship, so you can learn and work from anywhere with flexible
+schedules.
+Q: What happens a(cid:332)er the internship?
+A: Based on performance, you may be offered a full-(cid:415)me job with Vislona, referred to partner
+companies, or added to live AI product teams.
